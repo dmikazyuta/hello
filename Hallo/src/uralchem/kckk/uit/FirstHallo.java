@@ -3,6 +3,7 @@ package uralchem.kckk.uit;
 public class FirstHallo {
 	public static void main(String args[])
 	{
-		System.out.println("Hello Beautiful World!");
+		String text = "Hello world!";
+		System.out.println(text);
 	}
 }

@@ -5,6 +5,6 @@ public class FirstHallo {
 	{
 		String text = "Hello world!";
 		System.out.println(text);
-		System.out.println("Hello Angry World!");
+		System.out.println("Hello Angry World");
 	}
 }
